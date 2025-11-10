@@ -2,6 +2,10 @@
 
 A Python project to simulate and implement autonomous robot navigation algorithms. This repository contains code, documentation, and examples for pathfinding, obstacle avoidance, and control strategies for various environments.
 
+<img width="1024" height="1536" alt="ChatGPT Image Nov 10, 2025, 05_05_59 PM" src="https://github.com/user-attachments/assets/17e7878c-a5d2-462f-b295-05d06a84c63c" />
+
+
+
 ## Table of Contents
 
 - [Features](#features)
